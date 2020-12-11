@@ -13,6 +13,8 @@ aws_shots uses the configuration file created by the AWS CLI. e.g
 
 ## Running
 
-`pipenv run python aws_shots/aws_shots.py`
+`pipenv run python aws_shots/aws_shots.py <command> <--project=PROJECT>`
 
+*command* is list, start, or stop
+*project* is optional
 
