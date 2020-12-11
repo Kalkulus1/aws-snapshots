@@ -15,6 +15,7 @@ aws_shots uses the configuration file created by the AWS CLI. e.g
 
 `pipenv run python aws_shots/aws_shots.py <command> <--project=PROJECT>`
 
-*command* is list, start, or stop
+*command* is instances, volumes, or snapshots
+*subcommand* - depends on command
 *project* is optional
 
