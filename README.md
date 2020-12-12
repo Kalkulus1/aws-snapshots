@@ -13,7 +13,7 @@ aws_shots uses the configuration file created by the AWS CLI. e.g
 
 ## Installation
 
-Download *aws_shots-1.0-py3-none-any.whl* file and run:
+Download *aws_shots-1.0-py3-none-any.whl* file and run (Easiest and fastest to install):
 
 `pip3 install aws_shots-1.0-py3-none-any.whl`
 
